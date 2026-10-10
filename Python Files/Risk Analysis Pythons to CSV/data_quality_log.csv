@@ -1,0 +1,10 @@
+﻿worksheet_name,column,total_records,no_of_issues,error_type,error_rate,issues_resolved,Description
+customermaster,region,1648,10,Typo Error,0.61%,Yes,Replaced error values
+customermaster,gender,1648,17,Typo Error,1.03%,Yes,Replaced error values
+claimhistory,status,1406,6,Typo Error,0.43%,Yes,Replaced error values
+claimhistory,claim_date,1406,0,Data Type,0.00%,Yes,Changed Data Type to Date
+customerfeedback,date_submitted,1000,1000,Data Type,100.00%,Yes,Changed Data Type using Text-to-column
+agentinfo,join_date,300,0,Data Type,0.00%,Yes,Changed Data Type to Date
+policydetails,product_type,2828,4,Typo Error,0.14%,Yes,Replaced error values
+policydetails,policy_start_date,2828,0,Data Type,0.00%,Yes,Changed Data Type to Date
+policydetails,policy_end_date,2828,0,Data Type,0.00%,Yes,Changed Data Type to Date

@@ -1,0 +1,1001 @@
+﻿feedback_id,customer_id,date_submitted,feedback_text,satisfaction_score,contacted_agent,referred_claim
+FDB90000,CUST11838,2020-08-07,I'm not happy with the premium charged.,3,Yes,Yes
+FDB90001,CUST12252,2021-01-13,I'm not happy with the premium charged.,1,No,Yes
+FDB90002,CUST10495,2022-02-16,Smooth experience with no issues.,5,No,Yes
+FDB90003,CUST11182,2021-02-16,Claim process could be faster.,2,No,Yes
+FDB90004,CUST11047,2021-04-09,The agent was helpful and explained everything.,5,No,No
+FDB90005,CUST12167,2020-01-05,Very satisfied with the claim process.,5,Yes,No
+FDB90006,CUST10308,2023-11-25,Excellent customer service support.,4,Yes,Yes
+FDB90007,CUST10644,2023-02-06,Need more clarity on policy coverage.,3,No,No
+FDB90008,CUST12331,2022-02-01,Smooth experience with no issues.,5,Yes,Yes
+FDB90009,CUST12252,2020-02-27,Excellent customer service support.,4,No,No
+FDB90010,CUST10090,2021-02-17,The mobile app experience was intuitive.,3,Yes,No
+FDB90011,CUST10985,2023-11-22,I'm not happy with the premium charged.,1,Yes,No
+FDB90012,CUST12396,2020-05-09,Claim process could be faster.,3,No,No
+FDB90013,CUST11030,2023-10-11,The agent was helpful and explained everything.,4,Yes,No
+FDB90014,CUST10100,2022-01-22,Need more clarity on policy coverage.,2,Yes,No
+FDB90015,CUST10685,2022-11-11,Need more clarity on policy coverage.,2,Yes,No
+FDB90016,CUST12335,2022-02-08,The mobile app experience was intuitive.,5,Yes,Yes
+FDB90017,CUST11183,2021-11-28,I'm not happy with the premium charged.,3,No,Yes
+FDB90018,CUST11585,2022-09-08,Need more clarity on policy coverage.,1,Yes,Yes
+FDB90019,CUST11327,2022-09-12,Claim process could be faster.,2,Yes,No
+FDB90020,CUST12097,2022-03-02,The mobile app experience was intuitive.,4,Yes,No
+FDB90021,CUST12366,2022-06-24,Excellent customer service support.,5,Yes,Yes
+FDB90022,CUST12090,2022-04-08,I'm not happy with the premium charged.,3,Yes,No
+FDB90023,CUST11778,2023-01-20,I'm not happy with the premium charged.,1,No,No
+FDB90024,CUST10942,2020-02-17,Smooth experience with no issues.,5,Yes,Yes
+FDB90025,CUST11891,2021-08-11,Had to wait too long for claim approval.,1,Yes,No
+FDB90026,CUST11003,2023-06-19,Claim process could be faster.,2,Yes,No
+FDB90027,CUST10908,2020-12-14,Had to wait too long for claim approval.,2,Yes,Yes
+FDB90028,CUST11451,2022-01-23,Need more clarity on policy coverage.,2,No,Yes
+FDB90029,CUST11105,2020-12-25,Smooth experience with no issues.,4,No,No
+FDB90030,CUST10222,2022-08-09,Smooth experience with no issues.,5,Yes,No
+FDB90031,CUST11815,2021-02-25,Smooth experience with no issues.,4,Yes,No
+FDB90032,CUST12091,2020-11-20,Frustrated with repeated documentation requests.,3,Yes,No
+FDB90033,CUST11369,2021-04-19,Smooth experience with no issues.,4,No,Yes
+FDB90034,CUST10505,2021-03-16,Excellent customer service support.,5,Yes,Yes
+FDB90035,CUST10754,2020-02-24,Claim process could be faster.,3,No,Yes
+FDB90036,CUST11612,2023-01-16,Excellent customer service support.,4,Yes,Yes
+FDB90037,CUST10825,2023-05-12,Claim process could be faster.,2,Yes,No
+FDB90038,CUST10916,2022-10-25,Frustrated with repeated documentation requests.,3,No,No
+FDB90039,CUST12404,2022-01-07,Need more clarity on policy coverage.,2,No,Yes
+FDB90040,CUST10609,2020-09-06,I'm not happy with the premium charged.,3,No,No
+FDB90041,CUST10679,2021-01-09,Need more clarity on policy coverage.,3,No,No
+FDB90042,CUST10659,2023-07-16,The mobile app experience was intuitive.,3,Yes,No
+FDB90043,CUST11140,2021-08-05,Smooth experience with no issues.,5,Yes,No
+FDB90044,CUST10960,2023-03-05,Frustrated with repeated documentation requests.,1,No,Yes
+FDB90045,CUST11860,2020-08-14,The agent was helpful and explained everything.,5,Yes,No
+FDB90046,CUST10500,2023-10-23,Smooth experience with no issues.,5,No,No
+FDB90047,CUST10911,2020-09-01,Had to wait too long for claim approval.,1,No,No
+FDB90048,CUST11613,2021-06-07,Very satisfied with the claim process.,4,No,Yes
+FDB90049,CUST10476,2021-02-11,The mobile app experience was intuitive.,3,Yes,No
+FDB90050,CUST12029,2023-08-22,The agent was helpful and explained everything.,5,Yes,No
+FDB90051,CUST11562,2020-09-30,The mobile app experience was intuitive.,5,No,No
+FDB90052,CUST12432,2020-08-28,Had to wait too long for claim approval.,2,Yes,No
+FDB90053,CUST11585,2023-06-07,Need more clarity on policy coverage.,2,Yes,Yes
+FDB90054,CUST10695,2023-03-03,The mobile app experience was intuitive.,5,No,Yes
+FDB90055,CUST12303,2023-07-26,Had to wait too long for claim approval.,1,No,No
+FDB90056,CUST11951,2022-02-05,Smooth experience with no issues.,5,No,Yes
+FDB90057,CUST12066,2020-09-11,Excellent customer service support.,5,Yes,No
+FDB90058,CUST11059,2022-07-28,Very satisfied with the claim process.,5,Yes,Yes
+FDB90059,CUST10557,2020-09-09,I'm not happy with the premium charged.,2,Yes,No
+FDB90060,CUST11982,2022-11-09,Very satisfied with the claim process.,5,Yes,Yes
+FDB90061,CUST12153,2021-03-24,Had to wait too long for claim approval.,1,No,Yes
+FDB90062,CUST11571,2023-07-13,I'm not happy with the premium charged.,3,No,No
+FDB90063,CUST11732,2023-07-22,The agent was helpful and explained everything.,5,Yes,No
+FDB90064,CUST11330,2021-06-25,Need more clarity on policy coverage.,1,Yes,No
+FDB90065,CUST10095,2023-03-05,Need more clarity on policy coverage.,3,No,Yes
+FDB90066,CUST12060,2023-05-04,I'm not happy with the premium charged.,2,Yes,No
+FDB90067,CUST11545,2020-12-13,Need more clarity on policy coverage.,1,Yes,No
+FDB90068,CUST10121,2021-01-07,Frustrated with repeated documentation requests.,1,No,No
+FDB90069,CUST12010,2021-10-16,Need more clarity on policy coverage.,3,No,No
+FDB90070,CUST10113,2020-03-18,Had to wait too long for claim approval.,1,No,No
+FDB90071,CUST10300,2022-07-15,The mobile app experience was intuitive.,5,Yes,Yes
+FDB90072,CUST10206,2022-07-06,Had to wait too long for claim approval.,2,Yes,Yes
+FDB90073,CUST11056,2023-11-07,Need more clarity on policy coverage.,3,Yes,No
+FDB90074,CUST12114,2021-03-17,Very satisfied with the claim process.,5,Yes,Yes
+FDB90075,CUST12346,2023-07-06,Very satisfied with the claim process.,4,Yes,No
+FDB90076,CUST11109,2021-12-30,The agent was helpful and explained everything.,5,No,No
+FDB90077,CUST11763,2023-05-04,I'm not happy with the premium charged.,1,No,Yes
+FDB90078,CUST10410,2020-09-15,Excellent customer service support.,5,Yes,No
+FDB90079,CUST10936,2021-07-06,Excellent customer service support.,5,No,Yes
+FDB90080,CUST12040,2022-10-03,Frustrated with repeated documentation requests.,2,Yes,Yes
+FDB90081,CUST12141,2022-04-27,Very satisfied with the claim process.,4,No,Yes
+FDB90082,CUST11393,2023-09-29,The mobile app experience was intuitive.,4,Yes,Yes
+FDB90083,CUST11742,2020-08-26,Excellent customer service support.,5,No,No
+FDB90084,CUST12384,2020-02-10,The mobile app experience was intuitive.,4,No,Yes
+FDB90085,CUST12069,2021-11-10,The agent was helpful and explained everything.,5,No,Yes
+FDB90086,CUST10236,2022-03-10,Had to wait too long for claim approval.,2,Yes,No
+FDB90087,CUST12288,2021-07-12,Had to wait too long for claim approval.,2,No,Yes
+FDB90088,CUST11323,2021-08-25,Very satisfied with the claim process.,4,Yes,Yes
+FDB90089,CUST11453,2023-02-14,Need more clarity on policy coverage.,3,Yes,No
+FDB90090,CUST10211,2022-02-02,Very satisfied with the claim process.,4,Yes,No
+FDB90091,CUST10730,2023-10-07,The agent was helpful and explained everything.,5,No,No
+FDB90092,CUST10323,2020-02-11,Need more clarity on policy coverage.,1,No,Yes
+FDB90093,CUST10177,2023-09-15,Excellent customer service support.,5,No,Yes
+FDB90094,CUST10440,2020-05-27,Frustrated with repeated documentation requests.,3,Yes,No
+FDB90095,CUST11064,2022-05-06,I'm not happy with the premium charged.,2,Yes,Yes
+FDB90096,CUST12004,2023-07-05,Need more clarity on policy coverage.,2,No,Yes
+FDB90097,CUST11807,2020-10-08,Smooth experience with no issues.,4,No,Yes
+FDB90098,CUST10449,2022-01-11,Very satisfied with the claim process.,4,Yes,Yes
+FDB90099,CUST10669,2022-11-18,I'm not happy with the premium charged.,1,Yes,No
+FDB90100,CUST10394,2020-06-01,I'm not happy with the premium charged.,1,No,No
+FDB90101,CUST10352,2020-09-17,The agent was helpful and explained everything.,5,Yes,Yes
+FDB90102,CUST12339,2020-04-22,Smooth experience with no issues.,5,No,Yes
+FDB90103,CUST12198,2021-03-20,Frustrated with repeated documentation requests.,1,No,No
+FDB90104,CUST11804,2020-01-25,Excellent customer service support.,5,Yes,No
+FDB90105,CUST10954,2020-04-18,Very satisfied with the claim process.,5,No,Yes
+FDB90106,CUST10430,2020-02-27,Excellent customer service support.,5,No,Yes
+FDB90107,CUST11289,2020-12-30,The agent was helpful and explained everything.,4,No,Yes
+FDB90108,CUST10674,2021-07-28,The agent was helpful and explained everything.,5,Yes,No
+FDB90109,CUST10134,2021-07-13,Claim process could be faster.,2,Yes,Yes
+FDB90110,CUST10836,2020-07-26,Need more clarity on policy coverage.,1,No,Yes
+FDB90111,CUST10085,2022-06-06,Had to wait too long for claim approval.,2,Yes,No
+FDB90112,CUST11636,2020-11-13,Need more clarity on policy coverage.,1,No,Yes
+FDB90113,CUST10800,2021-06-17,The agent was helpful and explained everything.,4,Yes,No
+FDB90114,CUST12352,2020-10-10,The mobile app experience was intuitive.,3,No,Yes
+FDB90115,CUST11993,2023-01-09,Excellent customer service support.,5,Yes,No
+FDB90116,CUST10417,2021-05-06,Had to wait too long for claim approval.,2,Yes,No
+FDB90117,CUST11004,2021-10-25,The mobile app experience was intuitive.,5,No,Yes
+FDB90118,CUST10345,2021-10-27,Excellent customer service support.,5,No,No
+FDB90119,CUST11568,2023-05-28,Frustrated with repeated documentation requests.,1,Yes,Yes
+FDB90120,CUST11110,2022-10-03,Claim process could be faster.,3,No,No
+FDB90121,CUST12088,2021-01-04,Claim process could be faster.,2,Yes,No
+FDB90122,CUST11710,2023-06-17,Smooth experience with no issues.,5,Yes,Yes
+FDB90123,CUST12181,2023-11-24,Frustrated with repeated documentation requests.,3,No,No
+FDB90124,CUST12296,2021-06-21,Frustrated with repeated documentation requests.,3,No,Yes
+FDB90125,CUST12022,2020-04-29,Had to wait too long for claim approval.,1,No,No
+FDB90126,CUST11003,2023-09-04,The agent was helpful and explained everything.,5,No,No
+FDB90127,CUST10384,2023-02-13,Very satisfied with the claim process.,4,No,Yes
+FDB90128,CUST10745,2022-11-05,The agent was helpful and explained everything.,4,Yes,No
+FDB90129,CUST11972,2020-03-05,Excellent customer service support.,4,Yes,Yes
+FDB90130,CUST10580,2022-12-17,I'm not happy with the premium charged.,2,Yes,Yes
+FDB90131,CUST10009,2021-08-06,The agent was helpful and explained everything.,4,No,Yes
+FDB90132,CUST11336,2023-08-10,The mobile app experience was intuitive.,5,No,No
+FDB90133,CUST10451,2021-10-09,Smooth experience with no issues.,5,Yes,Yes
+FDB90134,CUST12440,2022-08-20,Need more clarity on policy coverage.,2,Yes,Yes
+FDB90135,CUST10380,2020-06-04,The agent was helpful and explained everything.,5,Yes,Yes
+FDB90136,CUST11594,2022-01-11,Claim process could be faster.,3,Yes,No
+FDB90137,CUST11259,2023-08-03,Need more clarity on policy coverage.,3,Yes,Yes
+FDB90138,CUST11296,2021-12-31,Excellent customer service support.,5,Yes,No
+FDB90139,CUST12296,2023-10-25,Excellent customer service support.,4,Yes,Yes
+FDB90140,CUST10493,2023-08-08,Very satisfied with the claim process.,5,No,No
+FDB90141,CUST12178,2021-05-06,The agent was helpful and explained everything.,5,No,No
+FDB90142,CUST12157,2021-01-01,Had to wait too long for claim approval.,1,No,No
+FDB90143,CUST10017,2020-06-09,Excellent customer service support.,4,No,Yes
+FDB90144,CUST12474,2023-01-03,Need more clarity on policy coverage.,2,Yes,Yes
+FDB90145,CUST12388,2020-10-20,Frustrated with repeated documentation requests.,1,No,No
+FDB90146,CUST11489,2021-04-30,The agent was helpful and explained everything.,4,No,No
+FDB90147,CUST10679,2020-06-30,Frustrated with repeated documentation requests.,1,Yes,Yes
+FDB90148,CUST10490,2023-11-14,Had to wait too long for claim approval.,2,Yes,No
+FDB90149,CUST10964,2021-03-25,Need more clarity on policy coverage.,3,Yes,No
+FDB90150,CUST12227,2020-08-22,The mobile app experience was intuitive.,4,No,Yes
+FDB90151,CUST10653,2020-03-21,Smooth experience with no issues.,5,Yes,No
+FDB90152,CUST12040,2022-08-26,Smooth experience with no issues.,5,Yes,Yes
+FDB90153,CUST12336,2023-06-29,Claim process could be faster.,3,Yes,Yes
+FDB90154,CUST11293,2020-10-22,The mobile app experience was intuitive.,5,Yes,Yes
+FDB90155,CUST10923,2023-10-28,Frustrated with repeated documentation requests.,2,Yes,No
+FDB90156,CUST10651,2021-10-13,Claim process could be faster.,3,No,Yes
+FDB90157,CUST11608,2022-01-24,Smooth experience with no issues.,4,Yes,No
+FDB90158,CUST11505,2023-04-29,Frustrated with repeated documentation requests.,2,No,No
+FDB90159,CUST12340,2022-02-03,I'm not happy with the premium charged.,1,No,No
+FDB90160,CUST11225,2022-09-22,Excellent customer service support.,4,Yes,Yes
+FDB90161,CUST12294,2022-08-19,The mobile app experience was intuitive.,5,Yes,No
+FDB90162,CUST10695,2023-01-31,Had to wait too long for claim approval.,1,Yes,No
+FDB90163,CUST10668,2020-11-15,Frustrated with repeated documentation requests.,1,Yes,No
+FDB90164,CUST11449,2023-05-19,Excellent customer service support.,4,No,No
+FDB90165,CUST11126,2023-11-10,The mobile app experience was intuitive.,5,Yes,No
+FDB90166,CUST10922,2020-12-12,I'm not happy with the premium charged.,2,Yes,No
+FDB90167,CUST11338,2023-01-15,Had to wait too long for claim approval.,2,No,No
+FDB90168,CUST11338,2020-01-07,Smooth experience with no issues.,5,No,No
+FDB90169,CUST10326,2023-05-31,The mobile app experience was intuitive.,5,Yes,Yes
+FDB90170,CUST10723,2023-10-06,The agent was helpful and explained everything.,4,Yes,Yes
+FDB90171,CUST12433,2021-08-31,Very satisfied with the claim process.,5,Yes,Yes
+FDB90172,CUST11875,2021-10-28,Frustrated with repeated documentation requests.,3,Yes,No
+FDB90173,CUST10950,2022-05-02,The mobile app experience was intuitive.,4,No,No
+FDB90174,CUST12037,2021-10-01,Very satisfied with the claim process.,5,No,Yes
+FDB90175,CUST11045,2021-09-25,Smooth experience with no issues.,4,No,Yes
+FDB90176,CUST11204,2020-07-06,Excellent customer service support.,4,No,No
+FDB90177,CUST10144,2022-09-24,Smooth experience with no issues.,4,Yes,Yes
+FDB90178,CUST11900,2021-03-24,Very satisfied with the claim process.,4,No,Yes
+FDB90179,CUST12221,2021-06-28,Smooth experience with no issues.,5,Yes,Yes
+FDB90180,CUST10360,2022-05-21,Had to wait too long for claim approval.,1,No,Yes
+FDB90181,CUST11465,2022-10-22,Need more clarity on policy coverage.,3,Yes,No
+FDB90182,CUST11512,2020-09-26,Excellent customer service support.,4,Yes,No
+FDB90183,CUST10022,2022-06-17,Very satisfied with the claim process.,4,Yes,No
+FDB90184,CUST12162,2022-09-04,Had to wait too long for claim approval.,1,No,Yes
+FDB90185,CUST11369,2022-08-04,Very satisfied with the claim process.,5,Yes,Yes
+FDB90186,CUST11767,2022-03-12,Excellent customer service support.,5,No,Yes
+FDB90187,CUST12146,2022-12-05,Smooth experience with no issues.,5,No,Yes
+FDB90188,CUST12274,2020-03-14,The agent was helpful and explained everything.,5,Yes,No
+FDB90189,CUST12155,2021-07-09,The mobile app experience was intuitive.,4,Yes,No
+FDB90190,CUST11970,2020-05-18,Excellent customer service support.,5,No,No
+FDB90191,CUST10481,2020-08-14,Claim process could be faster.,2,Yes,No
+FDB90192,CUST12054,2020-10-17,The agent was helpful and explained everything.,5,No,Yes
+FDB90193,CUST11882,2022-11-17,Frustrated with repeated documentation requests.,1,No,No
+FDB90194,CUST11425,2022-10-31,Very satisfied with the claim process.,5,Yes,No
+FDB90195,CUST10971,2020-05-18,Had to wait too long for claim approval.,1,No,No
+FDB90196,CUST10275,2021-10-07,The mobile app experience was intuitive.,5,No,No
+FDB90197,CUST10863,2021-03-24,The agent was helpful and explained everything.,4,Yes,No
+FDB90198,CUST10290,2023-12-06,The mobile app experience was intuitive.,3,No,Yes
+FDB90199,CUST10571,2021-04-12,Smooth experience with no issues.,4,Yes,Yes
+FDB90200,CUST11320,2022-02-25,Smooth experience with no issues.,4,Yes,No
+FDB90201,CUST11852,2023-09-30,Excellent customer service support.,4,No,Yes
+FDB90202,CUST12312,2020-01-16,Claim process could be faster.,2,No,Yes
+FDB90203,CUST10736,2023-11-20,The mobile app experience was intuitive.,4,No,Yes
+FDB90204,CUST10385,2021-07-28,Smooth experience with no issues.,4,No,No
+FDB90205,CUST10900,2020-05-10,The agent was helpful and explained everything.,4,Yes,No
+FDB90206,CUST11062,2022-11-05,The agent was helpful and explained everything.,5,Yes,No
+FDB90207,CUST12173,2020-10-31,The agent was helpful and explained everything.,4,No,No
+FDB90208,CUST11854,2022-02-27,I'm not happy with the premium charged.,2,Yes,No
+FDB90209,CUST11147,2023-10-04,Need more clarity on policy coverage.,1,Yes,Yes
+FDB90210,CUST10973,2023-02-19,The mobile app experience was intuitive.,4,No,Yes
+FDB90211,CUST11237,2021-09-08,I'm not happy with the premium charged.,2,Yes,No
+FDB90212,CUST10311,2021-11-26,The agent was helpful and explained everything.,4,Yes,No
+FDB90213,CUST10716,2020-07-18,Had to wait too long for claim approval.,2,Yes,Yes
+FDB90214,CUST11073,2021-11-02,Smooth experience with no issues.,4,Yes,Yes
+FDB90215,CUST12275,2023-08-29,Had to wait too long for claim approval.,1,Yes,Yes
+FDB90216,CUST11985,2021-02-27,The mobile app experience was intuitive.,4,Yes,Yes
+FDB90217,CUST10852,2021-04-26,Excellent customer service support.,4,Yes,No
+FDB90218,CUST11647,2022-08-02,Claim process could be faster.,3,Yes,No
+FDB90219,CUST12047,2022-06-11,Frustrated with repeated documentation requests.,2,No,Yes
+FDB90220,CUST12332,2022-01-27,Very satisfied with the claim process.,5,Yes,Yes
+FDB90221,CUST10932,2021-11-22,Frustrated with repeated documentation requests.,1,No,Yes
+FDB90222,CUST10597,2022-02-28,I'm not happy with the premium charged.,2,No,No
+FDB90223,CUST10094,2021-04-29,The agent was helpful and explained everything.,4,Yes,No
+FDB90224,CUST12271,2020-11-15,Need more clarity on policy coverage.,2,Yes,No
+FDB90225,CUST10162,2023-06-27,Need more clarity on policy coverage.,2,No,Yes
+FDB90226,CUST10043,2020-05-25,Had to wait too long for claim approval.,2,No,Yes
+FDB90227,CUST10697,2021-02-19,I'm not happy with the premium charged.,2,Yes,No
+FDB90228,CUST11039,2022-06-02,Need more clarity on policy coverage.,3,Yes,Yes
+FDB90229,CUST11435,2021-01-23,I'm not happy with the premium charged.,3,Yes,Yes
+FDB90230,CUST11217,2020-07-22,Need more clarity on policy coverage.,2,Yes,Yes
+FDB90231,CUST10931,2023-10-06,The agent was helpful and explained everything.,4,Yes,No
+FDB90232,CUST10422,2023-11-27,Had to wait too long for claim approval.,1,No,No
+FDB90233,CUST11758,2022-11-13,Claim process could be faster.,2,Yes,Yes
+FDB90234,CUST11104,2022-01-28,I'm not happy with the premium charged.,3,Yes,Yes
+FDB90235,CUST10554,2020-06-05,The agent was helpful and explained everything.,4,Yes,Yes
+FDB90236,CUST10609,2023-09-19,Claim process could be faster.,2,Yes,No
+FDB90237,CUST10711,2021-03-24,Claim process could be faster.,2,Yes,Yes
+FDB90238,CUST11466,2021-01-20,Claim process could be faster.,2,Yes,No
+FDB90239,CUST11580,2020-02-06,Very satisfied with the claim process.,4,Yes,No
+FDB90240,CUST12052,2020-08-30,The mobile app experience was intuitive.,5,Yes,No
+FDB90241,CUST11234,2021-10-12,I'm not happy with the premium charged.,1,No,Yes
+FDB90242,CUST10736,2022-01-26,The mobile app experience was intuitive.,3,Yes,No
+FDB90243,CUST10655,2022-07-14,The mobile app experience was intuitive.,5,No,No
+FDB90244,CUST10381,2022-07-25,The mobile app experience was intuitive.,3,No,No
+FDB90245,CUST12472,2020-12-31,Claim process could be faster.,2,No,No
+FDB90246,CUST11239,2021-07-13,Excellent customer service support.,5,Yes,Yes
+FDB90247,CUST10846,2022-12-20,Need more clarity on policy coverage.,3,No,No
+FDB90248,CUST12468,2020-02-27,The mobile app experience was intuitive.,4,Yes,No
+FDB90249,CUST10865,2023-03-27,Very satisfied with the claim process.,4,Yes,No
+FDB90250,CUST10501,2020-10-23,Need more clarity on policy coverage.,2,Yes,No
+FDB90251,CUST12072,2023-02-05,The mobile app experience was intuitive.,5,Yes,Yes
+FDB90252,CUST12306,2022-03-03,Smooth experience with no issues.,5,Yes,No
+FDB90253,CUST11002,2023-10-10,I'm not happy with the premium charged.,3,Yes,No
+FDB90254,CUST10110,2022-01-01,Claim process could be faster.,3,No,No
+FDB90255,CUST11686,2020-08-06,The mobile app experience was intuitive.,5,No,Yes
+FDB90256,CUST12127,2023-01-08,I'm not happy with the premium charged.,2,No,No
+FDB90257,CUST11150,2021-05-09,Smooth experience with no issues.,5,No,No
+FDB90258,CUST11148,2023-08-28,Claim process could be faster.,2,Yes,No
+FDB90259,CUST10422,2021-06-17,I'm not happy with the premium charged.,1,No,No
+FDB90260,CUST11367,2020-05-26,Very satisfied with the claim process.,4,No,No
+FDB90261,CUST10608,2022-04-15,Claim process could be faster.,3,Yes,No
+FDB90262,CUST10040,2022-03-07,Smooth experience with no issues.,5,No,No
+FDB90263,CUST12218,2022-12-10,Claim process could be faster.,2,No,No
+FDB90264,CUST11367,2022-09-16,The agent was helpful and explained everything.,4,Yes,No
+FDB90265,CUST12026,2021-06-09,The agent was helpful and explained everything.,4,Yes,Yes
+FDB90266,CUST10481,2023-08-04,Had to wait too long for claim approval.,1,No,No
+FDB90267,CUST11313,2021-12-19,Very satisfied with the claim process.,5,No,No
+FDB90268,CUST10692,2023-04-17,Had to wait too long for claim approval.,1,No,Yes
+FDB90269,CUST10674,2021-08-14,Claim process could be faster.,3,Yes,No
+FDB90270,CUST12235,2022-12-29,Very satisfied with the claim process.,5,No,No
+FDB90271,CUST11023,2022-10-12,The agent was helpful and explained everything.,4,No,No
+FDB90272,CUST12140,2021-10-09,Frustrated with repeated documentation requests.,3,No,No
+FDB90273,CUST10533,2022-06-04,The mobile app experience was intuitive.,3,Yes,No
+FDB90274,CUST11831,2023-07-25,Claim process could be faster.,2,Yes,No
+FDB90275,CUST11800,2020-04-06,I'm not happy with the premium charged.,3,Yes,No
+FDB90276,CUST10792,2023-12-04,Need more clarity on policy coverage.,3,Yes,No
+FDB90277,CUST11071,2022-05-17,Frustrated with repeated documentation requests.,2,No,No
+FDB90278,CUST11204,2021-09-01,I'm not happy with the premium charged.,1,Yes,No
+FDB90279,CUST10901,2021-11-23,Very satisfied with the claim process.,5,No,Yes
+FDB90280,CUST10089,2021-02-27,The agent was helpful and explained everything.,4,Yes,No
+FDB90281,CUST10110,2020-07-01,I'm not happy with the premium charged.,3,No,Yes
+FDB90282,CUST10276,2021-08-14,Frustrated with repeated documentation requests.,3,No,Yes
+FDB90283,CUST11087,2021-04-25,The agent was helpful and explained everything.,5,No,Yes
+FDB90284,CUST12020,2020-09-11,Had to wait too long for claim approval.,2,Yes,Yes
+FDB90285,CUST10533,2022-12-02,Need more clarity on policy coverage.,3,No,Yes
+FDB90286,CUST11965,2020-12-12,Excellent customer service support.,4,Yes,Yes
+FDB90287,CUST11703,2023-12-10,Very satisfied with the claim process.,5,No,No
+FDB90288,CUST11665,2023-11-09,Frustrated with repeated documentation requests.,3,No,No
+FDB90289,CUST12273,2022-01-31,Had to wait too long for claim approval.,1,No,Yes
+FDB90290,CUST12177,2020-07-03,Very satisfied with the claim process.,4,No,No
+FDB90291,CUST12286,2022-08-20,The mobile app experience was intuitive.,3,Yes,No
+FDB90292,CUST11960,2021-09-13,I'm not happy with the premium charged.,3,Yes,Yes
+FDB90293,CUST10889,2020-07-07,The mobile app experience was intuitive.,5,No,No
+FDB90294,CUST10372,2021-06-08,Frustrated with repeated documentation requests.,3,Yes,Yes
+FDB90295,CUST10975,2020-09-15,The mobile app experience was intuitive.,5,No,Yes
+FDB90296,CUST12282,2020-07-30,Need more clarity on policy coverage.,3,Yes,Yes
+FDB90297,CUST11083,2022-12-12,Claim process could be faster.,3,Yes,Yes
+FDB90298,CUST11342,2023-12-01,Frustrated with repeated documentation requests.,2,Yes,No
+FDB90299,CUST11706,2021-06-22,I'm not happy with the premium charged.,3,No,Yes
+FDB90300,CUST11296,2020-08-01,Need more clarity on policy coverage.,2,No,Yes
+FDB90301,CUST10617,2022-08-25,Need more clarity on policy coverage.,2,Yes,No
+FDB90302,CUST11746,2022-08-01,Smooth experience with no issues.,5,Yes,No
+FDB90303,CUST11939,2022-07-07,Frustrated with repeated documentation requests.,1,No,No
+FDB90304,CUST11931,2020-09-10,Claim process could be faster.,2,Yes,No
+FDB90305,CUST10726,2021-05-22,The agent was helpful and explained everything.,4,Yes,No
+FDB90306,CUST11210,2020-07-30,Frustrated with repeated documentation requests.,3,Yes,Yes
+FDB90307,CUST11438,2021-07-07,Need more clarity on policy coverage.,2,Yes,Yes
+FDB90308,CUST11260,2023-04-21,Frustrated with repeated documentation requests.,1,No,No
+FDB90309,CUST10809,2023-10-20,Very satisfied with the claim process.,5,Yes,No
+FDB90310,CUST11414,2022-12-28,Need more clarity on policy coverage.,3,No,Yes
+FDB90311,CUST11371,2021-07-06,I'm not happy with the premium charged.,2,Yes,Yes
+FDB90312,CUST10668,2023-02-28,I'm not happy with the premium charged.,2,Yes,No
+FDB90313,CUST10968,2022-11-01,I'm not happy with the premium charged.,1,No,No
+FDB90314,CUST12104,2021-06-16,Need more clarity on policy coverage.,2,No,Yes
+FDB90315,CUST12377,2020-11-03,Very satisfied with the claim process.,5,Yes,Yes
+FDB90316,CUST12060,2023-04-24,Claim process could be faster.,3,No,No
+FDB90317,CUST11881,2020-05-21,Excellent customer service support.,4,No,No
+FDB90318,CUST10419,2023-03-18,Excellent customer service support.,5,Yes,Yes
+FDB90319,CUST10837,2023-10-10,Frustrated with repeated documentation requests.,3,Yes,No
+FDB90320,CUST10726,2023-04-06,Very satisfied with the claim process.,5,Yes,No
+FDB90321,CUST10919,2023-07-12,The mobile app experience was intuitive.,5,Yes,Yes
+FDB90322,CUST10951,2023-03-26,Frustrated with repeated documentation requests.,3,Yes,Yes
+FDB90323,CUST10739,2020-01-27,The mobile app experience was intuitive.,3,Yes,Yes
+FDB90324,CUST10182,2021-07-28,Excellent customer service support.,4,Yes,Yes
+FDB90325,CUST10332,2023-10-24,The agent was helpful and explained everything.,5,Yes,No
+FDB90326,CUST12262,2022-09-13,Smooth experience with no issues.,5,No,No
+FDB90327,CUST12358,2023-11-16,Need more clarity on policy coverage.,2,Yes,Yes
+FDB90328,CUST10262,2020-02-16,Had to wait too long for claim approval.,2,No,No
+FDB90329,CUST11280,2022-12-05,Excellent customer service support.,5,No,Yes
+FDB90330,CUST11836,2021-11-09,Need more clarity on policy coverage.,3,No,No
+FDB90331,CUST11844,2020-01-16,Smooth experience with no issues.,4,Yes,Yes
+FDB90332,CUST10076,2020-11-01,The mobile app experience was intuitive.,5,Yes,No
+FDB90333,CUST11765,2022-07-16,I'm not happy with the premium charged.,3,Yes,No
+FDB90334,CUST10542,2021-01-29,Had to wait too long for claim approval.,2,Yes,Yes
+FDB90335,CUST10521,2022-08-02,I'm not happy with the premium charged.,3,Yes,No
+FDB90336,CUST10457,2023-01-01,Claim process could be faster.,2,No,Yes
+FDB90337,CUST11448,2023-05-27,Claim process could be faster.,3,No,No
+FDB90338,CUST11427,2022-12-19,Frustrated with repeated documentation requests.,1,No,Yes
+FDB90339,CUST10141,2020-08-11,Frustrated with repeated documentation requests.,2,Yes,Yes
+FDB90340,CUST12344,2020-10-07,Very satisfied with the claim process.,5,Yes,No
+FDB90341,CUST10819,2021-11-06,Claim process could be faster.,2,No,Yes
+FDB90342,CUST10345,2020-11-03,Had to wait too long for claim approval.,1,No,No
+FDB90343,CUST10516,2020-12-11,Very satisfied with the claim process.,4,Yes,Yes
+FDB90344,CUST12431,2022-12-30,I'm not happy with the premium charged.,2,Yes,Yes
+FDB90345,CUST11089,2020-01-22,Excellent customer service support.,5,No,No
+FDB90346,CUST10450,2023-02-21,Had to wait too long for claim approval.,1,No,No
+FDB90347,CUST11240,2022-06-17,Need more clarity on policy coverage.,1,Yes,Yes
+FDB90348,CUST11006,2023-11-11,Very satisfied with the claim process.,4,Yes,Yes
+FDB90349,CUST10714,2023-10-27,Smooth experience with no issues.,5,Yes,Yes
+FDB90350,CUST10160,2020-07-25,Very satisfied with the claim process.,5,Yes,No
+FDB90351,CUST12431,2022-09-22,Need more clarity on policy coverage.,3,Yes,No
+FDB90352,CUST10030,2022-04-14,The agent was helpful and explained everything.,4,No,Yes
+FDB90353,CUST10128,2020-07-20,Excellent customer service support.,5,No,Yes
+FDB90354,CUST12226,2021-01-07,The agent was helpful and explained everything.,4,Yes,No
+FDB90355,CUST10150,2023-10-05,The agent was helpful and explained everything.,4,Yes,No
+FDB90356,CUST12387,2020-02-22,Very satisfied with the claim process.,4,Yes,Yes
+FDB90357,CUST11171,2020-11-19,Had to wait too long for claim approval.,1,Yes,Yes
+FDB90358,CUST11862,2023-01-11,Claim process could be faster.,2,No,Yes
+FDB90359,CUST11987,2022-10-10,Smooth experience with no issues.,4,Yes,No
+FDB90360,CUST10045,2020-10-08,Very satisfied with the claim process.,4,Yes,No
+FDB90361,CUST10129,2022-03-14,Claim process could be faster.,2,Yes,Yes
+FDB90362,CUST11874,2021-04-03,The agent was helpful and explained everything.,5,Yes,Yes
+FDB90363,CUST10452,2023-06-04,Very satisfied with the claim process.,5,No,No
+FDB90364,CUST10748,2021-08-23,Had to wait too long for claim approval.,1,Yes,No
+FDB90365,CUST10968,2023-11-09,The agent was helpful and explained everything.,5,Yes,No
+FDB90366,CUST11028,2022-09-21,Claim process could be faster.,2,No,Yes
+FDB90367,CUST10336,2023-05-02,Very satisfied with the claim process.,4,Yes,Yes
+FDB90368,CUST11037,2021-03-04,Need more clarity on policy coverage.,2,Yes,No
+FDB90369,CUST10576,2020-06-09,Frustrated with repeated documentation requests.,1,No,Yes
+FDB90370,CUST10063,2023-10-12,Very satisfied with the claim process.,5,Yes,Yes
+FDB90371,CUST10444,2023-09-22,Excellent customer service support.,5,No,No
+FDB90372,CUST12338,2023-07-13,Had to wait too long for claim approval.,1,Yes,Yes
+FDB90373,CUST12020,2021-01-25,Had to wait too long for claim approval.,2,No,No
+FDB90374,CUST10609,2023-06-03,Had to wait too long for claim approval.,1,No,Yes
+FDB90375,CUST12254,2023-12-10,Need more clarity on policy coverage.,3,Yes,Yes
+FDB90376,CUST10210,2021-12-19,Need more clarity on policy coverage.,2,No,No
+FDB90377,CUST10176,2022-05-21,Claim process could be faster.,2,No,Yes
+FDB90378,CUST10763,2023-06-16,Had to wait too long for claim approval.,2,No,No
+FDB90379,CUST12246,2021-04-12,Very satisfied with the claim process.,4,Yes,No
+FDB90380,CUST11217,2020-09-24,Claim process could be faster.,3,No,Yes
+FDB90381,CUST10200,2020-12-04,I'm not happy with the premium charged.,3,No,No
+FDB90382,CUST10255,2023-09-29,Very satisfied with the claim process.,5,Yes,Yes
+FDB90383,CUST11198,2023-01-27,Excellent customer service support.,5,No,No
+FDB90384,CUST10952,2020-05-04,The agent was helpful and explained everything.,4,Yes,Yes
+FDB90385,CUST11713,2021-12-06,The mobile app experience was intuitive.,5,No,Yes
+FDB90386,CUST10228,2020-10-16,Smooth experience with no issues.,4,No,Yes
+FDB90387,CUST10005,2022-11-30,Excellent customer service support.,5,No,No
+FDB90388,CUST10136,2021-10-15,Very satisfied with the claim process.,4,No,Yes
+FDB90389,CUST11707,2023-01-12,Had to wait too long for claim approval.,2,No,Yes
+FDB90390,CUST11511,2022-04-14,Claim process could be faster.,2,Yes,No
+FDB90391,CUST10392,2023-06-02,Need more clarity on policy coverage.,3,Yes,No
+FDB90392,CUST11020,2021-08-02,The mobile app experience was intuitive.,3,No,Yes
+FDB90393,CUST11894,2022-06-08,Need more clarity on policy coverage.,3,No,No
+FDB90394,CUST12295,2020-10-25,The agent was helpful and explained everything.,5,Yes,Yes
+FDB90395,CUST11205,2021-10-04,Excellent customer service support.,4,Yes,Yes
+FDB90396,CUST12100,2021-04-06,Smooth experience with no issues.,5,Yes,No
+FDB90397,CUST12215,2023-06-06,I'm not happy with the premium charged.,1,Yes,No
+FDB90398,CUST11284,2022-10-31,Claim process could be faster.,3,Yes,Yes
+FDB90399,CUST11867,2023-12-29,The agent was helpful and explained everything.,4,Yes,Yes
+FDB90400,CUST11938,2023-11-09,The mobile app experience was intuitive.,4,Yes,Yes
+FDB90401,CUST12410,2021-06-13,Need more clarity on policy coverage.,2,No,Yes
+FDB90402,CUST11651,2021-06-07,I'm not happy with the premium charged.,2,Yes,No
+FDB90403,CUST10754,2022-06-14,The mobile app experience was intuitive.,4,No,No
+FDB90404,CUST11740,2021-06-10,The agent was helpful and explained everything.,5,Yes,No
+FDB90405,CUST11814,2021-08-30,Very satisfied with the claim process.,5,No,Yes
+FDB90406,CUST10678,2021-07-27,Very satisfied with the claim process.,5,No,No
+FDB90407,CUST10945,2021-01-08,Smooth experience with no issues.,4,Yes,Yes
+FDB90408,CUST10911,2023-11-28,The agent was helpful and explained everything.,5,No,No
+FDB90409,CUST12019,2021-01-11,Smooth experience with no issues.,4,Yes,Yes
+FDB90410,CUST11292,2023-09-28,Claim process could be faster.,3,No,No
+FDB90411,CUST10263,2023-05-13,Had to wait too long for claim approval.,2,No,Yes
+FDB90412,CUST11011,2023-06-13,Very satisfied with the claim process.,5,No,No
+FDB90413,CUST10291,2022-06-23,Very satisfied with the claim process.,5,No,No
+FDB90414,CUST11490,2021-02-07,The agent was helpful and explained everything.,5,Yes,Yes
+FDB90415,CUST12236,2023-02-28,Very satisfied with the claim process.,5,Yes,No
+FDB90416,CUST11560,2020-08-02,The agent was helpful and explained everything.,4,Yes,No
+FDB90417,CUST11618,2021-05-16,Excellent customer service support.,4,Yes,Yes
+FDB90418,CUST11795,2022-01-26,Excellent customer service support.,5,No,No
+FDB90419,CUST10021,2022-05-22,I'm not happy with the premium charged.,3,Yes,Yes
+FDB90420,CUST12391,2023-10-22,Very satisfied with the claim process.,5,Yes,Yes
+FDB90421,CUST10929,2020-03-24,Need more clarity on policy coverage.,3,Yes,No
+FDB90422,CUST10420,2020-01-27,Excellent customer service support.,5,No,No
+FDB90423,CUST11277,2022-04-06,Need more clarity on policy coverage.,3,No,Yes
+FDB90424,CUST11373,2022-06-26,Smooth experience with no issues.,5,Yes,No
+FDB90425,CUST11190,2023-11-14,Claim process could be faster.,2,Yes,No
+FDB90426,CUST10693,2022-08-29,Had to wait too long for claim approval.,2,No,No
+FDB90427,CUST10181,2020-09-07,The agent was helpful and explained everything.,5,No,No
+FDB90428,CUST11603,2021-10-08,Excellent customer service support.,5,No,No
+FDB90429,CUST10460,2022-03-24,Smooth experience with no issues.,4,Yes,Yes
+FDB90430,CUST11826,2021-11-27,Excellent customer service support.,5,No,Yes
+FDB90431,CUST10102,2020-06-21,Frustrated with repeated documentation requests.,1,Yes,No
+FDB90432,CUST12402,2022-07-30,Claim process could be faster.,3,No,Yes
+FDB90433,CUST11053,2021-07-28,Claim process could be faster.,2,No,Yes
+FDB90434,CUST12472,2021-08-03,I'm not happy with the premium charged.,2,Yes,No
+FDB90435,CUST10288,2022-10-27,Claim process could be faster.,2,No,Yes
+FDB90436,CUST12457,2021-01-15,Need more clarity on policy coverage.,2,Yes,No
+FDB90437,CUST10461,2022-06-28,Claim process could be faster.,3,No,No
+FDB90438,CUST11001,2021-03-17,The agent was helpful and explained everything.,5,Yes,Yes
+FDB90439,CUST11528,2020-08-25,Excellent customer service support.,4,Yes,No
+FDB90440,CUST10802,2022-09-05,The mobile app experience was intuitive.,4,No,Yes
+FDB90441,CUST10521,2021-08-02,Need more clarity on policy coverage.,1,No,Yes
+FDB90442,CUST11712,2023-01-26,I'm not happy with the premium charged.,2,Yes,No
+FDB90443,CUST10806,2023-06-05,Need more clarity on policy coverage.,2,Yes,No
+FDB90444,CUST10938,2022-02-21,The agent was helpful and explained everything.,5,No,No
+FDB90445,CUST10150,2022-12-07,Excellent customer service support.,4,No,No
+FDB90446,CUST12279,2022-05-28,Excellent customer service support.,5,Yes,Yes
+FDB90447,CUST11412,2023-09-16,Excellent customer service support.,4,Yes,No
+FDB90448,CUST12139,2022-04-08,Had to wait too long for claim approval.,2,Yes,Yes
+FDB90449,CUST11649,2023-06-27,Frustrated with repeated documentation requests.,1,Yes,Yes
+FDB90450,CUST10368,2022-04-19,Frustrated with repeated documentation requests.,1,No,No
+FDB90451,CUST10928,2022-07-25,Excellent customer service support.,5,Yes,Yes
+FDB90452,CUST10309,2022-09-27,Excellent customer service support.,4,Yes,No
+FDB90453,CUST12236,2023-09-26,Frustrated with repeated documentation requests.,1,Yes,No
+FDB90454,CUST10665,2022-07-02,Need more clarity on policy coverage.,3,No,Yes
+FDB90455,CUST12057,2023-12-01,Smooth experience with no issues.,5,No,No
+FDB90456,CUST10538,2022-08-19,Need more clarity on policy coverage.,3,Yes,No
+FDB90457,CUST11456,2020-11-16,Smooth experience with no issues.,4,Yes,No
+FDB90458,CUST10285,2021-02-04,The agent was helpful and explained everything.,4,No,No
+FDB90459,CUST11762,2022-07-07,Need more clarity on policy coverage.,3,Yes,No
+FDB90460,CUST10813,2022-07-21,Smooth experience with no issues.,4,No,No
+FDB90461,CUST11323,2021-01-11,The mobile app experience was intuitive.,5,No,Yes
+FDB90462,CUST10813,2020-02-22,Smooth experience with no issues.,4,No,No
+FDB90463,CUST11113,2023-02-24,The mobile app experience was intuitive.,3,Yes,Yes
+FDB90464,CUST10313,2020-02-04,The mobile app experience was intuitive.,5,No,Yes
+FDB90465,CUST10459,2021-05-04,I'm not happy with the premium charged.,3,Yes,No
+FDB90466,CUST10711,2022-09-16,Excellent customer service support.,5,Yes,No
+FDB90467,CUST10238,2023-08-18,I'm not happy with the premium charged.,1,Yes,No
+FDB90468,CUST10546,2023-01-17,The agent was helpful and explained everything.,4,No,Yes
+FDB90469,CUST11004,2023-11-13,Excellent customer service support.,5,Yes,No
+FDB90470,CUST10840,2022-05-03,Claim process could be faster.,3,Yes,Yes
+FDB90471,CUST10328,2020-01-28,Very satisfied with the claim process.,4,No,No
+FDB90472,CUST12282,2021-03-12,The mobile app experience was intuitive.,4,Yes,No
+FDB90473,CUST11281,2021-07-02,Very satisfied with the claim process.,5,Yes,No
+FDB90474,CUST11296,2022-04-11,The agent was helpful and explained everything.,5,Yes,Yes
+FDB90475,CUST11275,2021-02-15,Very satisfied with the claim process.,5,No,No
+FDB90476,CUST11119,2021-01-31,The mobile app experience was intuitive.,4,No,Yes
+FDB90477,CUST10795,2022-11-20,Very satisfied with the claim process.,5,Yes,Yes
+FDB90478,CUST11026,2022-09-06,Need more clarity on policy coverage.,3,No,No
+FDB90479,CUST10851,2023-12-21,Need more clarity on policy coverage.,3,No,Yes
+FDB90480,CUST10521,2023-04-23,Had to wait too long for claim approval.,2,Yes,No
+FDB90481,CUST12272,2023-01-07,The agent was helpful and explained everything.,4,Yes,No
+FDB90482,CUST10004,2021-11-23,Claim process could be faster.,2,No,No
+FDB90483,CUST11605,2023-01-13,Smooth experience with no issues.,5,Yes,No
+FDB90484,CUST10091,2023-08-28,Frustrated with repeated documentation requests.,1,Yes,Yes
+FDB90485,CUST11360,2020-09-27,Claim process could be faster.,3,No,Yes
+FDB90486,CUST10746,2023-10-23,Smooth experience with no issues.,5,No,Yes
+FDB90487,CUST10879,2023-08-03,Smooth experience with no issues.,5,No,No
+FDB90488,CUST12110,2021-03-14,I'm not happy with the premium charged.,2,Yes,No
+FDB90489,CUST12133,2022-11-24,The agent was helpful and explained everything.,4,Yes,No
+FDB90490,CUST10342,2023-06-18,I'm not happy with the premium charged.,2,No,Yes
+FDB90491,CUST10706,2021-05-11,The agent was helpful and explained everything.,5,Yes,Yes
+FDB90492,CUST10661,2022-03-21,The mobile app experience was intuitive.,4,Yes,No
+FDB90493,CUST11497,2022-07-05,Claim process could be faster.,3,Yes,Yes
+FDB90494,CUST10459,2023-10-17,The agent was helpful and explained everything.,5,Yes,Yes
+FDB90495,CUST11725,2020-09-01,Smooth experience with no issues.,4,No,Yes
+FDB90496,CUST11561,2021-02-15,Claim process could be faster.,2,No,No
+FDB90497,CUST12124,2021-05-03,Had to wait too long for claim approval.,1,No,Yes
+FDB90498,CUST11001,2022-07-04,I'm not happy with the premium charged.,2,Yes,Yes
+FDB90499,CUST11148,2022-09-25,Very satisfied with the claim process.,5,No,Yes
+FDB90500,CUST11449,2023-08-03,The agent was helpful and explained everything.,4,No,Yes
+FDB90501,CUST11609,2022-12-22,Excellent customer service support.,4,No,Yes
+FDB90502,CUST10097,2020-03-09,The mobile app experience was intuitive.,4,Yes,No
+FDB90503,CUST10264,2021-09-26,Need more clarity on policy coverage.,2,No,Yes
+FDB90504,CUST12035,2022-08-21,The agent was helpful and explained everything.,4,No,Yes
+FDB90505,CUST11913,2020-01-31,Frustrated with repeated documentation requests.,1,No,Yes
+FDB90506,CUST11314,2022-06-12,The mobile app experience was intuitive.,5,No,No
+FDB90507,CUST11065,2023-08-12,Smooth experience with no issues.,4,No,Yes
+FDB90508,CUST10415,2023-09-03,Smooth experience with no issues.,5,No,Yes
+FDB90509,CUST10655,2022-01-12,Excellent customer service support.,4,No,Yes
+FDB90510,CUST12312,2020-02-08,I'm not happy with the premium charged.,2,No,Yes
+FDB90511,CUST10969,2021-05-11,Very satisfied with the claim process.,4,Yes,Yes
+FDB90512,CUST11235,2021-01-23,The agent was helpful and explained everything.,4,Yes,Yes
+FDB90513,CUST10400,2020-11-22,Excellent customer service support.,5,No,No
+FDB90514,CUST10749,2020-03-21,Frustrated with repeated documentation requests.,1,Yes,No
+FDB90515,CUST10986,2021-02-08,Claim process could be faster.,2,No,Yes
+FDB90516,CUST10427,2021-07-10,I'm not happy with the premium charged.,3,Yes,Yes
+FDB90517,CUST11070,2022-11-05,Excellent customer service support.,4,No,Yes
+FDB90518,CUST10917,2021-08-20,Smooth experience with no issues.,4,No,Yes
+FDB90519,CUST11870,2022-12-12,The agent was helpful and explained everything.,5,Yes,Yes
+FDB90520,CUST11643,2021-10-01,The agent was helpful and explained everything.,4,Yes,No
+FDB90521,CUST11859,2021-12-09,Frustrated with repeated documentation requests.,3,No,Yes
+FDB90522,CUST11644,2023-10-27,I'm not happy with the premium charged.,3,No,No
+FDB90523,CUST10685,2022-05-27,Excellent customer service support.,5,No,Yes
+FDB90524,CUST11835,2020-04-21,Claim process could be faster.,2,Yes,No
+FDB90525,CUST12203,2020-01-30,I'm not happy with the premium charged.,2,Yes,No
+FDB90526,CUST11291,2022-06-04,Frustrated with repeated documentation requests.,2,No,Yes
+FDB90527,CUST12472,2021-11-30,The mobile app experience was intuitive.,5,Yes,Yes
+FDB90528,CUST10947,2022-07-12,Need more clarity on policy coverage.,3,Yes,No
+FDB90529,CUST12065,2021-12-14,Smooth experience with no issues.,5,No,Yes
+FDB90530,CUST10387,2022-01-22,The mobile app experience was intuitive.,3,No,No
+FDB90531,CUST11986,2020-04-06,Had to wait too long for claim approval.,1,No,Yes
+FDB90532,CUST11784,2021-12-14,The mobile app experience was intuitive.,3,No,No
+FDB90533,CUST10769,2022-11-12,Claim process could be faster.,3,Yes,Yes
+FDB90534,CUST11894,2020-04-11,The agent was helpful and explained everything.,5,Yes,No
+FDB90535,CUST11144,2021-03-26,Need more clarity on policy coverage.,3,Yes,No
+FDB90536,CUST11522,2022-05-17,Excellent customer service support.,5,Yes,Yes
+FDB90537,CUST10837,2022-09-08,Smooth experience with no issues.,4,Yes,Yes
+FDB90538,CUST10559,2021-11-18,Claim process could be faster.,3,No,No
+FDB90539,CUST12265,2021-03-18,I'm not happy with the premium charged.,3,Yes,No
+FDB90540,CUST10515,2021-04-18,I'm not happy with the premium charged.,2,No,No
+FDB90541,CUST11108,2022-10-11,The agent was helpful and explained everything.,5,Yes,No
+FDB90542,CUST11056,2023-09-24,Frustrated with repeated documentation requests.,3,Yes,No
+FDB90543,CUST10844,2021-12-13,Smooth experience with no issues.,5,Yes,Yes
+FDB90544,CUST11461,2021-01-16,Need more clarity on policy coverage.,3,No,Yes
+FDB90545,CUST11498,2023-02-17,Smooth experience with no issues.,4,No,No
+FDB90546,CUST11187,2020-12-20,Need more clarity on policy coverage.,3,Yes,Yes
+FDB90547,CUST10704,2021-12-10,The agent was helpful and explained everything.,4,No,No
+FDB90548,CUST10191,2023-05-16,The mobile app experience was intuitive.,4,No,No
+FDB90549,CUST11819,2020-06-18,The agent was helpful and explained everything.,5,No,No
+FDB90550,CUST10724,2021-06-16,Frustrated with repeated documentation requests.,1,Yes,No
+FDB90551,CUST11702,2022-07-15,The mobile app experience was intuitive.,5,No,Yes
+FDB90552,CUST11764,2022-04-01,Very satisfied with the claim process.,5,No,Yes
+FDB90553,CUST10282,2020-12-31,Had to wait too long for claim approval.,2,No,No
+FDB90554,CUST10957,2021-01-04,I'm not happy with the premium charged.,1,No,No
+FDB90555,CUST10585,2022-04-28,The mobile app experience was intuitive.,5,No,Yes
+FDB90556,CUST11274,2023-02-03,Need more clarity on policy coverage.,2,No,No
+FDB90557,CUST10802,2021-03-13,Excellent customer service support.,5,No,Yes
+FDB90558,CUST11829,2020-07-16,I'm not happy with the premium charged.,1,Yes,Yes
+FDB90559,CUST10302,2023-02-24,Smooth experience with no issues.,5,No,Yes
+FDB90560,CUST12105,2022-09-15,Need more clarity on policy coverage.,2,No,No
+FDB90561,CUST12109,2020-05-15,The agent was helpful and explained everything.,5,No,Yes
+FDB90562,CUST10587,2022-05-08,Had to wait too long for claim approval.,2,Yes,Yes
+FDB90563,CUST11715,2021-03-25,The mobile app experience was intuitive.,3,No,Yes
+FDB90564,CUST10296,2023-04-27,Very satisfied with the claim process.,5,No,Yes
+FDB90565,CUST11231,2021-04-07,Had to wait too long for claim approval.,1,Yes,No
+FDB90566,CUST10314,2021-05-17,Frustrated with repeated documentation requests.,3,Yes,No
+FDB90567,CUST11333,2021-07-12,Had to wait too long for claim approval.,1,Yes,No
+FDB90568,CUST10910,2023-12-31,Need more clarity on policy coverage.,3,Yes,Yes
+FDB90569,CUST11757,2021-12-05,Excellent customer service support.,4,No,No
+FDB90570,CUST10157,2020-05-24,The agent was helpful and explained everything.,5,Yes,No
+FDB90571,CUST11953,2022-08-11,Frustrated with repeated documentation requests.,2,Yes,No
+FDB90572,CUST12355,2023-11-09,I'm not happy with the premium charged.,1,No,Yes
+FDB90573,CUST10736,2023-05-01,The mobile app experience was intuitive.,3,No,Yes
+FDB90574,CUST11263,2022-03-18,Frustrated with repeated documentation requests.,3,Yes,Yes
+FDB90575,CUST10933,2023-03-21,The mobile app experience was intuitive.,5,Yes,Yes
+FDB90576,CUST10710,2023-11-06,The mobile app experience was intuitive.,3,No,No
+FDB90577,CUST12086,2022-06-07,Very satisfied with the claim process.,4,Yes,Yes
+FDB90578,CUST10607,2023-02-11,Need more clarity on policy coverage.,3,No,No
+FDB90579,CUST12421,2023-08-15,I'm not happy with the premium charged.,2,No,Yes
+FDB90580,CUST10327,2023-01-28,The mobile app experience was intuitive.,4,No,Yes
+FDB90581,CUST11676,2023-06-05,Very satisfied with the claim process.,5,No,No
+FDB90582,CUST10414,2022-10-28,Claim process could be faster.,2,No,No
+FDB90583,CUST12357,2021-11-25,Frustrated with repeated documentation requests.,3,No,No
+FDB90584,CUST12373,2022-12-02,Need more clarity on policy coverage.,1,No,No
+FDB90585,CUST10538,2020-06-05,The mobile app experience was intuitive.,5,No,No
+FDB90586,CUST11731,2020-09-23,I'm not happy with the premium charged.,3,No,Yes
+FDB90587,CUST11314,2021-02-19,I'm not happy with the premium charged.,3,No,Yes
+FDB90588,CUST10173,2022-03-20,I'm not happy with the premium charged.,1,No,Yes
+FDB90589,CUST11255,2023-05-15,The mobile app experience was intuitive.,3,No,No
+FDB90590,CUST11829,2020-10-25,Smooth experience with no issues.,4,Yes,No
+FDB90591,CUST11700,2021-04-23,Had to wait too long for claim approval.,2,No,Yes
+FDB90592,CUST10960,2020-07-09,Claim process could be faster.,2,No,No
+FDB90593,CUST11904,2021-06-10,The mobile app experience was intuitive.,4,No,Yes
+FDB90594,CUST12020,2020-06-11,Claim process could be faster.,3,Yes,Yes
+FDB90595,CUST11896,2023-10-14,Need more clarity on policy coverage.,1,No,Yes
+FDB90596,CUST12209,2023-03-23,Very satisfied with the claim process.,4,Yes,No
+FDB90597,CUST10262,2022-05-23,Had to wait too long for claim approval.,2,No,Yes
+FDB90598,CUST11089,2020-11-06,The agent was helpful and explained everything.,4,No,No
+FDB90599,CUST12498,2021-08-17,Had to wait too long for claim approval.,2,Yes,No
+FDB90600,CUST12443,2023-06-02,Excellent customer service support.,4,Yes,Yes
+FDB90601,CUST12084,2021-12-18,Excellent customer service support.,5,No,No
+FDB90602,CUST11893,2022-10-11,Excellent customer service support.,5,Yes,Yes
+FDB90603,CUST12111,2022-06-19,Frustrated with repeated documentation requests.,1,Yes,Yes
+FDB90604,CUST11040,2022-01-17,Very satisfied with the claim process.,5,No,No
+FDB90605,CUST10812,2022-12-18,I'm not happy with the premium charged.,3,Yes,No
+FDB90606,CUST11984,2021-06-06,Frustrated with repeated documentation requests.,3,Yes,No
+FDB90607,CUST11399,2022-08-31,The agent was helpful and explained everything.,4,Yes,No
+FDB90608,CUST10133,2023-11-10,Excellent customer service support.,4,Yes,No
+FDB90609,CUST11652,2022-10-23,The mobile app experience was intuitive.,3,No,No
+FDB90610,CUST12017,2022-01-06,The mobile app experience was intuitive.,3,Yes,No
+FDB90611,CUST11204,2023-05-17,Had to wait too long for claim approval.,1,Yes,No
+FDB90612,CUST12366,2020-04-26,The mobile app experience was intuitive.,4,No,Yes
+FDB90613,CUST10522,2022-09-03,Claim process could be faster.,3,Yes,No
+FDB90614,CUST11534,2020-08-05,Excellent customer service support.,4,Yes,Yes
+FDB90615,CUST11826,2022-09-24,Very satisfied with the claim process.,5,Yes,No
+FDB90616,CUST10483,2023-09-04,Very satisfied with the claim process.,5,No,No
+FDB90617,CUST12245,2023-04-26,The mobile app experience was intuitive.,4,Yes,Yes
+FDB90618,CUST11528,2020-01-09,I'm not happy with the premium charged.,2,No,Yes
+FDB90619,CUST12025,2021-02-24,Smooth experience with no issues.,5,Yes,Yes
+FDB90620,CUST12156,2023-07-21,Had to wait too long for claim approval.,2,No,Yes
+FDB90621,CUST11128,2022-11-02,I'm not happy with the premium charged.,2,Yes,No
+FDB90622,CUST11983,2021-04-30,Excellent customer service support.,4,Yes,No
+FDB90623,CUST12211,2020-07-09,Frustrated with repeated documentation requests.,1,Yes,No
+FDB90624,CUST12120,2022-04-13,Very satisfied with the claim process.,5,Yes,Yes
+FDB90625,CUST12474,2023-04-19,Excellent customer service support.,5,Yes,Yes
+FDB90626,CUST11760,2020-04-16,Excellent customer service support.,4,Yes,Yes
+FDB90627,CUST10935,2020-07-27,Smooth experience with no issues.,4,No,No
+FDB90628,CUST10263,2020-03-04,Excellent customer service support.,4,Yes,No
+FDB90629,CUST10419,2020-06-15,Had to wait too long for claim approval.,1,Yes,Yes
+FDB90630,CUST10683,2023-11-09,The agent was helpful and explained everything.,5,No,Yes
+FDB90631,CUST11704,2020-05-21,Need more clarity on policy coverage.,3,Yes,No
+FDB90632,CUST11240,2023-10-11,The mobile app experience was intuitive.,3,No,Yes
+FDB90633,CUST10709,2021-07-31,Frustrated with repeated documentation requests.,3,No,Yes
+FDB90634,CUST11331,2023-11-04,Smooth experience with no issues.,5,Yes,No
+FDB90635,CUST10758,2021-03-19,The mobile app experience was intuitive.,3,Yes,Yes
+FDB90636,CUST11858,2021-02-08,Frustrated with repeated documentation requests.,1,Yes,Yes
+FDB90637,CUST10614,2021-01-09,I'm not happy with the premium charged.,3,No,No
+FDB90638,CUST11105,2021-02-20,Smooth experience with no issues.,4,No,Yes
+FDB90639,CUST10945,2021-08-07,Need more clarity on policy coverage.,2,No,Yes
+FDB90640,CUST10240,2021-08-31,Need more clarity on policy coverage.,3,No,No
+FDB90641,CUST11209,2021-01-09,Need more clarity on policy coverage.,1,No,Yes
+FDB90642,CUST10797,2023-06-22,I'm not happy with the premium charged.,2,Yes,No
+FDB90643,CUST11444,2023-08-05,Very satisfied with the claim process.,4,No,Yes
+FDB90644,CUST12411,2020-01-26,Smooth experience with no issues.,4,No,Yes
+FDB90645,CUST10641,2022-07-29,Frustrated with repeated documentation requests.,3,No,No
+FDB90646,CUST12456,2021-02-21,Need more clarity on policy coverage.,3,No,Yes
+FDB90647,CUST10852,2021-10-03,Very satisfied with the claim process.,5,No,No
+FDB90648,CUST11787,2021-07-31,Frustrated with repeated documentation requests.,3,Yes,No
+FDB90649,CUST10142,2022-08-12,Need more clarity on policy coverage.,1,Yes,No
+FDB90650,CUST12210,2022-03-23,I'm not happy with the premium charged.,1,No,Yes
+FDB90651,CUST12373,2021-06-07,Frustrated with repeated documentation requests.,1,No,No
+FDB90652,CUST11585,2020-09-03,Claim process could be faster.,3,Yes,Yes
+FDB90653,CUST11622,2020-05-29,Excellent customer service support.,5,No,Yes
+FDB90654,CUST10515,2020-04-05,Excellent customer service support.,4,Yes,Yes
+FDB90655,CUST11089,2022-11-12,Had to wait too long for claim approval.,2,No,Yes
+FDB90656,CUST12180,2020-10-02,Smooth experience with no issues.,4,No,Yes
+FDB90657,CUST10017,2021-12-27,The mobile app experience was intuitive.,5,Yes,No
+FDB90658,CUST10802,2023-09-20,Very satisfied with the claim process.,5,No,Yes
+FDB90659,CUST10893,2022-10-08,The agent was helpful and explained everything.,4,No,No
+FDB90660,CUST10214,2020-09-23,Frustrated with repeated documentation requests.,3,No,Yes
+FDB90661,CUST11754,2023-05-31,Frustrated with repeated documentation requests.,2,Yes,No
+FDB90662,CUST11878,2020-01-13,Excellent customer service support.,4,No,Yes
+FDB90663,CUST11289,2021-08-26,The agent was helpful and explained everything.,4,No,No
+FDB90664,CUST11777,2020-02-22,Claim process could be faster.,3,No,Yes
+FDB90665,CUST10980,2021-11-13,Need more clarity on policy coverage.,1,No,Yes
+FDB90666,CUST10785,2021-05-11,Excellent customer service support.,4,No,No
+FDB90667,CUST11397,2020-01-22,Had to wait too long for claim approval.,2,No,Yes
+FDB90668,CUST10245,2020-03-22,Very satisfied with the claim process.,5,Yes,Yes
+FDB90669,CUST12306,2023-06-23,Frustrated with repeated documentation requests.,1,No,Yes
+FDB90670,CUST10581,2023-02-12,Frustrated with repeated documentation requests.,1,Yes,No
+FDB90671,CUST11377,2021-06-20,Frustrated with repeated documentation requests.,3,Yes,No
+FDB90672,CUST11748,2022-06-23,Frustrated with repeated documentation requests.,3,No,Yes
+FDB90673,CUST12265,2022-01-12,The agent was helpful and explained everything.,4,No,No
+FDB90674,CUST11424,2021-09-04,The agent was helpful and explained everything.,5,Yes,Yes
+FDB90675,CUST10618,2022-11-30,Claim process could be faster.,2,Yes,No
+FDB90676,CUST11832,2020-03-24,Frustrated with repeated documentation requests.,1,No,No
+FDB90677,CUST11937,2023-02-03,The agent was helpful and explained everything.,5,Yes,No
+FDB90678,CUST10284,2020-07-15,Need more clarity on policy coverage.,2,No,Yes
+FDB90679,CUST10372,2023-11-07,I'm not happy with the premium charged.,1,No,No
+FDB90680,CUST10969,2023-01-29,Need more clarity on policy coverage.,2,No,Yes
+FDB90681,CUST11862,2023-02-09,Excellent customer service support.,5,No,Yes
+FDB90682,CUST11440,2020-03-16,I'm not happy with the premium charged.,1,Yes,Yes
+FDB90683,CUST10244,2022-04-15,Had to wait too long for claim approval.,1,No,No
+FDB90684,CUST12149,2022-05-10,Had to wait too long for claim approval.,1,No,No
+FDB90685,CUST10428,2022-05-03,Had to wait too long for claim approval.,1,Yes,No
+FDB90686,CUST11587,2021-01-06,The agent was helpful and explained everything.,4,Yes,No
+FDB90687,CUST10502,2022-11-12,I'm not happy with the premium charged.,3,Yes,Yes
+FDB90688,CUST11642,2023-05-06,Excellent customer service support.,5,Yes,Yes
+FDB90689,CUST12442,2021-12-10,I'm not happy with the premium charged.,1,Yes,Yes
+FDB90690,CUST11117,2021-10-07,Had to wait too long for claim approval.,2,Yes,No
+FDB90691,CUST11407,2023-04-06,Frustrated with repeated documentation requests.,1,Yes,No
+FDB90692,CUST10817,2021-02-07,Frustrated with repeated documentation requests.,3,No,Yes
+FDB90693,CUST10803,2020-09-18,Excellent customer service support.,4,Yes,Yes
+FDB90694,CUST11530,2021-03-26,Need more clarity on policy coverage.,3,Yes,No
+FDB90695,CUST11232,2020-04-09,Had to wait too long for claim approval.,2,Yes,Yes
+FDB90696,CUST12329,2021-01-14,The agent was helpful and explained everything.,4,Yes,Yes
+FDB90697,CUST10919,2022-12-11,Frustrated with repeated documentation requests.,1,Yes,Yes
+FDB90698,CUST11970,2020-06-27,Had to wait too long for claim approval.,1,Yes,No
+FDB90699,CUST12201,2023-10-29,I'm not happy with the premium charged.,3,No,No
+FDB90700,CUST11267,2020-05-03,Had to wait too long for claim approval.,1,Yes,Yes
+FDB90701,CUST12362,2021-07-12,Frustrated with repeated documentation requests.,3,No,Yes
+FDB90702,CUST10657,2023-12-12,Very satisfied with the claim process.,5,Yes,Yes
+FDB90703,CUST10884,2020-05-16,Claim process could be faster.,2,No,Yes
+FDB90704,CUST12024,2020-02-27,Need more clarity on policy coverage.,3,No,Yes
+FDB90705,CUST11665,2021-10-23,The agent was helpful and explained everything.,4,Yes,No
+FDB90706,CUST10173,2020-11-26,The agent was helpful and explained everything.,4,No,Yes
+FDB90707,CUST10346,2020-12-07,The agent was helpful and explained everything.,4,No,No
+FDB90708,CUST11619,2022-03-20,Very satisfied with the claim process.,4,No,Yes
+FDB90709,CUST12369,2020-04-22,I'm not happy with the premium charged.,3,No,Yes
+FDB90710,CUST10103,2022-06-17,The mobile app experience was intuitive.,3,Yes,No
+FDB90711,CUST10691,2022-10-06,Claim process could be faster.,2,Yes,Yes
+FDB90712,CUST12053,2022-01-27,Very satisfied with the claim process.,5,Yes,No
+FDB90713,CUST11478,2022-02-20,The agent was helpful and explained everything.,5,Yes,No
+FDB90714,CUST11171,2020-05-11,Need more clarity on policy coverage.,2,Yes,No
+FDB90715,CUST11224,2021-08-28,The mobile app experience was intuitive.,3,Yes,No
+FDB90716,CUST10663,2020-11-22,Claim process could be faster.,2,No,No
+FDB90717,CUST12242,2021-01-13,I'm not happy with the premium charged.,2,No,No
+FDB90718,CUST10018,2021-12-25,Claim process could be faster.,2,Yes,Yes
+FDB90719,CUST10325,2023-09-14,I'm not happy with the premium charged.,3,No,No
+FDB90720,CUST11710,2023-03-28,Need more clarity on policy coverage.,1,Yes,No
+FDB90721,CUST10726,2021-12-30,The mobile app experience was intuitive.,3,No,Yes
+FDB90722,CUST12314,2020-03-12,Excellent customer service support.,5,No,No
+FDB90723,CUST12048,2020-05-29,The mobile app experience was intuitive.,5,Yes,No
+FDB90724,CUST12417,2022-08-31,Need more clarity on policy coverage.,2,Yes,No
+FDB90725,CUST11766,2022-07-13,Very satisfied with the claim process.,5,No,No
+FDB90726,CUST10462,2020-09-26,Excellent customer service support.,5,No,Yes
+FDB90727,CUST10863,2020-07-30,Very satisfied with the claim process.,5,Yes,No
+FDB90728,CUST10616,2021-05-26,Had to wait too long for claim approval.,1,Yes,No
+FDB90729,CUST11785,2021-12-15,I'm not happy with the premium charged.,3,Yes,No
+FDB90730,CUST12085,2022-10-22,The mobile app experience was intuitive.,3,Yes,No
+FDB90731,CUST10946,2023-01-03,Claim process could be faster.,3,Yes,Yes
+FDB90732,CUST12108,2023-02-23,Frustrated with repeated documentation requests.,3,No,Yes
+FDB90733,CUST11060,2020-05-07,Excellent customer service support.,4,No,Yes
+FDB90734,CUST11802,2021-11-01,Smooth experience with no issues.,5,No,Yes
+FDB90735,CUST12430,2022-12-10,Frustrated with repeated documentation requests.,2,Yes,No
+FDB90736,CUST10716,2021-04-30,Smooth experience with no issues.,5,No,No
+FDB90737,CUST10652,2022-03-29,Excellent customer service support.,4,No,Yes
+FDB90738,CUST11497,2023-05-07,Excellent customer service support.,4,No,Yes
+FDB90739,CUST12212,2021-04-12,Claim process could be faster.,2,Yes,Yes
+FDB90740,CUST11761,2020-06-11,Smooth experience with no issues.,5,No,No
+FDB90741,CUST12214,2022-08-04,Had to wait too long for claim approval.,1,No,No
+FDB90742,CUST11979,2021-01-24,Frustrated with repeated documentation requests.,1,No,No
+FDB90743,CUST10323,2020-02-17,The agent was helpful and explained everything.,5,Yes,Yes
+FDB90744,CUST10735,2020-08-26,I'm not happy with the premium charged.,1,Yes,No
+FDB90745,CUST10868,2020-05-18,The mobile app experience was intuitive.,4,No,No
+FDB90746,CUST10794,2023-03-31,The mobile app experience was intuitive.,5,Yes,Yes
+FDB90747,CUST12349,2022-07-12,Very satisfied with the claim process.,4,No,Yes
+FDB90748,CUST10963,2021-09-03,Need more clarity on policy coverage.,3,Yes,Yes
+FDB90749,CUST10376,2022-04-29,Claim process could be faster.,2,Yes,No
+FDB90750,CUST10633,2022-04-16,Very satisfied with the claim process.,5,No,No
+FDB90751,CUST12154,2020-01-04,Very satisfied with the claim process.,5,No,Yes
+FDB90752,CUST11456,2022-01-27,Had to wait too long for claim approval.,2,Yes,No
+FDB90753,CUST12002,2023-07-31,I'm not happy with the premium charged.,2,No,Yes
+FDB90754,CUST11228,2020-01-23,Frustrated with repeated documentation requests.,3,No,Yes
+FDB90755,CUST11889,2020-12-21,Claim process could be faster.,2,No,Yes
+FDB90756,CUST11161,2022-10-12,Excellent customer service support.,4,No,Yes
+FDB90757,CUST12261,2023-03-13,I'm not happy with the premium charged.,2,No,Yes
+FDB90758,CUST10641,2021-11-04,Very satisfied with the claim process.,4,Yes,Yes
+FDB90759,CUST12273,2023-10-14,Very satisfied with the claim process.,4,Yes,No
+FDB90760,CUST10033,2021-07-31,The agent was helpful and explained everything.,5,No,Yes
+FDB90761,CUST11302,2021-10-12,Smooth experience with no issues.,5,Yes,Yes
+FDB90762,CUST11619,2021-05-23,I'm not happy with the premium charged.,1,No,No
+FDB90763,CUST11431,2020-09-03,Smooth experience with no issues.,5,No,No
+FDB90764,CUST10151,2021-03-22,Need more clarity on policy coverage.,1,No,Yes
+FDB90765,CUST11921,2023-12-20,Need more clarity on policy coverage.,3,Yes,Yes
+FDB90766,CUST10509,2023-02-10,Frustrated with repeated documentation requests.,2,Yes,Yes
+FDB90767,CUST12105,2020-04-23,Excellent customer service support.,4,Yes,Yes
+FDB90768,CUST10663,2020-08-08,Very satisfied with the claim process.,4,No,Yes
+FDB90769,CUST10964,2020-04-08,Excellent customer service support.,4,No,No
+FDB90770,CUST12312,2022-01-17,Frustrated with repeated documentation requests.,3,No,No
+FDB90771,CUST12207,2022-11-01,Frustrated with repeated documentation requests.,1,No,No
+FDB90772,CUST12047,2020-02-02,Had to wait too long for claim approval.,2,Yes,No
+FDB90773,CUST10218,2021-05-16,Claim process could be faster.,3,No,No
+FDB90774,CUST10649,2023-08-10,The mobile app experience was intuitive.,4,No,Yes
+FDB90775,CUST10343,2023-07-19,I'm not happy with the premium charged.,1,No,Yes
+FDB90776,CUST12150,2023-07-20,The agent was helpful and explained everything.,4,Yes,No
+FDB90777,CUST10468,2020-06-09,The mobile app experience was intuitive.,3,Yes,No
+FDB90778,CUST12064,2023-06-21,Frustrated with repeated documentation requests.,1,Yes,Yes
+FDB90779,CUST10159,2020-08-14,Excellent customer service support.,5,No,No
+FDB90780,CUST10575,2022-11-04,Need more clarity on policy coverage.,3,Yes,Yes
+FDB90781,CUST11163,2020-02-14,Frustrated with repeated documentation requests.,2,No,Yes
+FDB90782,CUST12497,2020-09-27,Frustrated with repeated documentation requests.,1,No,No
+FDB90783,CUST12272,2021-12-05,Very satisfied with the claim process.,5,No,Yes
+FDB90784,CUST11871,2023-10-04,Claim process could be faster.,2,No,Yes
+FDB90785,CUST10433,2020-04-29,Excellent customer service support.,5,Yes,No
+FDB90786,CUST10957,2021-02-28,Smooth experience with no issues.,5,No,Yes
+FDB90787,CUST11356,2023-11-09,Had to wait too long for claim approval.,2,No,Yes
+FDB90788,CUST10521,2022-07-15,Very satisfied with the claim process.,5,Yes,No
+FDB90789,CUST11219,2022-02-12,Need more clarity on policy coverage.,2,Yes,No
+FDB90790,CUST10774,2020-01-03,Frustrated with repeated documentation requests.,3,Yes,Yes
+FDB90791,CUST12204,2022-11-30,The mobile app experience was intuitive.,4,Yes,Yes
+FDB90792,CUST10752,2022-08-15,Very satisfied with the claim process.,4,Yes,No
+FDB90793,CUST10700,2021-04-22,Need more clarity on policy coverage.,2,No,Yes
+FDB90794,CUST11036,2020-09-27,The agent was helpful and explained everything.,4,No,Yes
+FDB90795,CUST10457,2022-07-29,The mobile app experience was intuitive.,5,Yes,Yes
+FDB90796,CUST12488,2022-04-14,Smooth experience with no issues.,5,Yes,Yes
+FDB90797,CUST10647,2022-08-29,Smooth experience with no issues.,5,No,Yes
+FDB90798,CUST10805,2020-07-27,The agent was helpful and explained everything.,4,Yes,No
+FDB90799,CUST11420,2022-01-14,Had to wait too long for claim approval.,2,Yes,Yes
+FDB90800,CUST11502,2022-10-05,The agent was helpful and explained everything.,5,Yes,Yes
+FDB90801,CUST11146,2020-10-02,Excellent customer service support.,5,Yes,No
+FDB90802,CUST11414,2022-04-04,The agent was helpful and explained everything.,4,No,No
+FDB90803,CUST10510,2022-01-01,Excellent customer service support.,5,No,No
+FDB90804,CUST11034,2020-03-07,The mobile app experience was intuitive.,4,No,Yes
+FDB90805,CUST10363,2023-08-13,Claim process could be faster.,2,Yes,Yes
+FDB90806,CUST11002,2023-04-09,Frustrated with repeated documentation requests.,2,No,Yes
+FDB90807,CUST11923,2022-01-13,Excellent customer service support.,5,No,No
+FDB90808,CUST11307,2020-06-10,The agent was helpful and explained everything.,4,Yes,No
+FDB90809,CUST11035,2022-06-04,Claim process could be faster.,3,No,Yes
+FDB90810,CUST12074,2022-08-29,Need more clarity on policy coverage.,2,Yes,Yes
+FDB90811,CUST10889,2023-11-25,I'm not happy with the premium charged.,1,Yes,Yes
+FDB90812,CUST12096,2022-12-12,Claim process could be faster.,3,Yes,Yes
+FDB90813,CUST11470,2023-03-27,Had to wait too long for claim approval.,1,No,No
+FDB90814,CUST12350,2020-12-27,Frustrated with repeated documentation requests.,3,Yes,Yes
+FDB90815,CUST11438,2023-08-10,Frustrated with repeated documentation requests.,1,Yes,Yes
+FDB90816,CUST10919,2023-08-07,Need more clarity on policy coverage.,1,Yes,Yes
+FDB90817,CUST11925,2022-11-29,Excellent customer service support.,5,No,No
+FDB90818,CUST11527,2022-10-09,Claim process could be faster.,2,Yes,No
+FDB90819,CUST11726,2021-07-25,Frustrated with repeated documentation requests.,2,No,No
+FDB90820,CUST10490,2021-08-16,I'm not happy with the premium charged.,1,No,No
+FDB90821,CUST11644,2022-01-18,The agent was helpful and explained everything.,5,No,No
+FDB90822,CUST10442,2022-09-01,The mobile app experience was intuitive.,4,Yes,No
+FDB90823,CUST12176,2021-06-17,Excellent customer service support.,4,Yes,Yes
+FDB90824,CUST11140,2022-09-06,The mobile app experience was intuitive.,3,No,Yes
+FDB90825,CUST11278,2022-02-27,Frustrated with repeated documentation requests.,1,No,No
+FDB90826,CUST11325,2023-08-16,Smooth experience with no issues.,4,Yes,No
+FDB90827,CUST10480,2021-07-11,I'm not happy with the premium charged.,1,No,Yes
+FDB90828,CUST10542,2020-12-09,Very satisfied with the claim process.,5,No,No
+FDB90829,CUST11561,2020-08-24,Smooth experience with no issues.,5,Yes,Yes
+FDB90830,CUST10204,2021-04-20,Very satisfied with the claim process.,5,Yes,No
+FDB90831,CUST11103,2023-01-04,The mobile app experience was intuitive.,3,Yes,No
+FDB90832,CUST10550,2021-07-06,The mobile app experience was intuitive.,3,Yes,Yes
+FDB90833,CUST11499,2023-07-31,Claim process could be faster.,3,No,No
+FDB90834,CUST10751,2021-02-09,Frustrated with repeated documentation requests.,2,Yes,Yes
+FDB90835,CUST11858,2023-02-02,Claim process could be faster.,2,No,No
+FDB90836,CUST10534,2022-01-12,Claim process could be faster.,2,No,Yes
+FDB90837,CUST10185,2022-11-16,Claim process could be faster.,3,Yes,No
+FDB90838,CUST11628,2023-10-30,Excellent customer service support.,5,Yes,Yes
+FDB90839,CUST10524,2020-01-09,The mobile app experience was intuitive.,5,Yes,No
+FDB90840,CUST12464,2020-04-03,Excellent customer service support.,5,Yes,No
+FDB90841,CUST10958,2023-05-17,The agent was helpful and explained everything.,5,Yes,No
+FDB90842,CUST11123,2022-11-12,Frustrated with repeated documentation requests.,1,Yes,Yes
+FDB90843,CUST12245,2022-10-17,Excellent customer service support.,4,Yes,No
+FDB90844,CUST11050,2023-02-25,Had to wait too long for claim approval.,1,No,Yes
+FDB90845,CUST11264,2020-10-07,The mobile app experience was intuitive.,3,No,Yes
+FDB90846,CUST12224,2021-09-20,Excellent customer service support.,4,Yes,No
+FDB90847,CUST12257,2021-08-08,Smooth experience with no issues.,5,No,Yes
+FDB90848,CUST11796,2021-12-12,The agent was helpful and explained everything.,5,Yes,No
+FDB90849,CUST11075,2020-05-27,Very satisfied with the claim process.,4,No,No
+FDB90850,CUST11076,2021-08-22,Need more clarity on policy coverage.,1,Yes,No
+FDB90851,CUST11301,2020-08-23,Frustrated with repeated documentation requests.,3,No,Yes
+FDB90852,CUST10095,2022-09-21,Had to wait too long for claim approval.,2,Yes,Yes
+FDB90853,CUST11318,2021-01-31,Need more clarity on policy coverage.,1,No,Yes
+FDB90854,CUST10064,2023-04-15,The mobile app experience was intuitive.,3,Yes,Yes
+FDB90855,CUST10891,2022-10-25,Had to wait too long for claim approval.,1,Yes,Yes
+FDB90856,CUST11219,2021-07-23,The mobile app experience was intuitive.,4,Yes,Yes
+FDB90857,CUST12364,2021-04-02,Frustrated with repeated documentation requests.,2,Yes,No
+FDB90858,CUST10254,2021-03-10,Had to wait too long for claim approval.,2,Yes,Yes
+FDB90859,CUST10539,2020-03-25,Frustrated with repeated documentation requests.,2,Yes,No
+FDB90860,CUST10620,2020-10-10,Excellent customer service support.,5,No,No
+FDB90861,CUST10828,2022-09-12,Had to wait too long for claim approval.,2,Yes,Yes
+FDB90862,CUST11659,2021-08-09,Had to wait too long for claim approval.,2,No,Yes
+FDB90863,CUST12278,2023-08-07,The mobile app experience was intuitive.,3,Yes,Yes
+FDB90864,CUST11438,2020-11-20,Smooth experience with no issues.,4,No,Yes
+FDB90865,CUST10800,2020-10-05,I'm not happy with the premium charged.,1,Yes,No
+FDB90866,CUST11918,2020-07-24,Need more clarity on policy coverage.,2,No,No
+FDB90867,CUST11560,2021-09-17,The mobile app experience was intuitive.,3,No,Yes
+FDB90868,CUST10186,2020-02-21,Frustrated with repeated documentation requests.,1,Yes,Yes
+FDB90869,CUST11973,2021-08-14,Claim process could be faster.,2,Yes,No
+FDB90870,CUST11951,2023-05-12,The agent was helpful and explained everything.,4,No,Yes
+FDB90871,CUST10881,2022-10-05,Need more clarity on policy coverage.,3,No,Yes
+FDB90872,CUST12136,2020-11-01,Had to wait too long for claim approval.,1,Yes,Yes
+FDB90873,CUST11763,2021-06-20,Claim process could be faster.,3,Yes,Yes
+FDB90874,CUST11825,2023-06-05,Claim process could be faster.,2,Yes,No
+FDB90875,CUST12485,2022-12-28,Frustrated with repeated documentation requests.,2,No,Yes
+FDB90876,CUST11434,2021-12-04,Smooth experience with no issues.,5,No,No
+FDB90877,CUST11357,2021-09-18,Smooth experience with no issues.,5,Yes,No
+FDB90878,CUST11078,2020-10-27,I'm not happy with the premium charged.,2,No,Yes
+FDB90879,CUST10703,2021-02-22,Had to wait too long for claim approval.,1,No,Yes
+FDB90880,CUST11714,2023-10-11,I'm not happy with the premium charged.,2,No,No
+FDB90881,CUST10126,2023-07-19,Frustrated with repeated documentation requests.,3,Yes,No
+FDB90882,CUST12007,2020-07-08,The mobile app experience was intuitive.,4,Yes,Yes
+FDB90883,CUST10193,2022-03-08,The agent was helpful and explained everything.,4,No,Yes
+FDB90884,CUST10636,2022-05-10,The agent was helpful and explained everything.,4,No,No
+FDB90885,CUST11460,2022-06-29,Excellent customer service support.,5,No,No
+FDB90886,CUST11386,2022-09-05,Very satisfied with the claim process.,5,Yes,No
+FDB90887,CUST11190,2023-06-28,The agent was helpful and explained everything.,5,Yes,Yes
+FDB90888,CUST10139,2021-04-20,I'm not happy with the premium charged.,1,No,No
+FDB90889,CUST12163,2021-11-20,Had to wait too long for claim approval.,2,Yes,Yes
+FDB90890,CUST12303,2023-02-02,I'm not happy with the premium charged.,2,No,Yes
+FDB90891,CUST12040,2021-06-17,Very satisfied with the claim process.,4,Yes,Yes
+FDB90892,CUST12318,2021-01-29,I'm not happy with the premium charged.,2,Yes,Yes
+FDB90893,CUST10938,2020-03-06,Had to wait too long for claim approval.,1,Yes,No
+FDB90894,CUST10427,2020-12-24,I'm not happy with the premium charged.,3,Yes,No
+FDB90895,CUST10119,2023-01-08,Very satisfied with the claim process.,5,No,No
+FDB90896,CUST11334,2020-01-02,Excellent customer service support.,4,No,Yes
+FDB90897,CUST12262,2021-08-04,Claim process could be faster.,3,No,Yes
+FDB90898,CUST10140,2021-10-02,Claim process could be faster.,3,No,Yes
+FDB90899,CUST11572,2023-07-03,Claim process could be faster.,2,No,Yes
+FDB90900,CUST10100,2020-09-20,The agent was helpful and explained everything.,4,No,Yes
+FDB90901,CUST12031,2021-10-17,The mobile app experience was intuitive.,3,Yes,Yes
+FDB90902,CUST10242,2022-01-25,Had to wait too long for claim approval.,2,Yes,Yes
+FDB90903,CUST12130,2023-05-27,Claim process could be faster.,3,No,No
+FDB90904,CUST10758,2023-09-14,I'm not happy with the premium charged.,3,Yes,Yes
+FDB90905,CUST10373,2020-01-27,The agent was helpful and explained everything.,4,No,No
+FDB90906,CUST10435,2020-12-17,I'm not happy with the premium charged.,1,Yes,No
+FDB90907,CUST10899,2020-07-19,Claim process could be faster.,2,No,No
+FDB90908,CUST11119,2020-05-31,Smooth experience with no issues.,4,No,Yes
+FDB90909,CUST10135,2023-12-08,Excellent customer service support.,5,No,No
+FDB90910,CUST11975,2020-10-28,Need more clarity on policy coverage.,3,Yes,No
+FDB90911,CUST10503,2022-08-25,Need more clarity on policy coverage.,3,Yes,No
+FDB90912,CUST12260,2020-04-16,Claim process could be faster.,2,Yes,Yes
+FDB90913,CUST11050,2020-01-07,Smooth experience with no issues.,5,Yes,Yes
+FDB90914,CUST10652,2020-03-23,Had to wait too long for claim approval.,2,Yes,No
+FDB90915,CUST11138,2020-06-14,I'm not happy with the premium charged.,3,Yes,No
+FDB90916,CUST11907,2021-05-17,Claim process could be faster.,3,Yes,Yes
+FDB90917,CUST11607,2023-02-25,Need more clarity on policy coverage.,1,Yes,Yes
+FDB90918,CUST10311,2021-09-28,Had to wait too long for claim approval.,1,No,Yes
+FDB90919,CUST12337,2021-05-02,The mobile app experience was intuitive.,3,No,Yes
+FDB90920,CUST10046,2020-06-23,Excellent customer service support.,4,Yes,No
+FDB90921,CUST12463,2023-12-30,Had to wait too long for claim approval.,1,Yes,Yes
+FDB90922,CUST12136,2020-03-21,Had to wait too long for claim approval.,1,Yes,No
+FDB90923,CUST12102,2022-04-29,The agent was helpful and explained everything.,4,Yes,No
+FDB90924,CUST10965,2023-02-27,The mobile app experience was intuitive.,4,No,Yes
+FDB90925,CUST12171,2023-12-03,Smooth experience with no issues.,4,Yes,No
+FDB90926,CUST11481,2022-04-10,Frustrated with repeated documentation requests.,3,No,Yes
+FDB90927,CUST11904,2020-04-13,The agent was helpful and explained everything.,4,No,No
+FDB90928,CUST11579,2023-05-07,I'm not happy with the premium charged.,1,No,Yes
+FDB90929,CUST11996,2022-02-24,Had to wait too long for claim approval.,1,No,Yes
+FDB90930,CUST10962,2020-06-11,Had to wait too long for claim approval.,2,No,No
+FDB90931,CUST10056,2020-01-27,Had to wait too long for claim approval.,2,No,No
+FDB90932,CUST10087,2021-04-12,Had to wait too long for claim approval.,1,Yes,No
+FDB90933,CUST12308,2023-04-06,Need more clarity on policy coverage.,1,No,No
+FDB90934,CUST11362,2020-06-19,Smooth experience with no issues.,4,No,No
+FDB90935,CUST12440,2022-04-30,Claim process could be faster.,2,Yes,Yes
+FDB90936,CUST10778,2022-06-12,Excellent customer service support.,4,No,No
+FDB90937,CUST11511,2020-03-04,I'm not happy with the premium charged.,3,No,Yes
+FDB90938,CUST12273,2020-11-07,Frustrated with repeated documentation requests.,1,No,No
+FDB90939,CUST10769,2021-06-19,Need more clarity on policy coverage.,3,Yes,No
+FDB90940,CUST10526,2020-08-31,I'm not happy with the premium charged.,3,No,Yes
+FDB90941,CUST12203,2022-11-17,The agent was helpful and explained everything.,4,Yes,Yes
+FDB90942,CUST11036,2022-06-23,Had to wait too long for claim approval.,2,Yes,Yes
+FDB90943,CUST10176,2023-10-19,I'm not happy with the premium charged.,1,No,No
+FDB90944,CUST10946,2021-07-14,Had to wait too long for claim approval.,1,Yes,Yes
+FDB90945,CUST10873,2020-09-25,I'm not happy with the premium charged.,2,Yes,No
+FDB90946,CUST10812,2020-02-04,Smooth experience with no issues.,4,Yes,No
+FDB90947,CUST11461,2021-01-28,Smooth experience with no issues.,4,Yes,No
+FDB90948,CUST10415,2021-11-22,Excellent customer service support.,5,No,No
+FDB90949,CUST10596,2022-04-07,Excellent customer service support.,4,Yes,Yes
+FDB90950,CUST10943,2022-09-22,Need more clarity on policy coverage.,1,No,Yes
+FDB90951,CUST10363,2020-09-12,Smooth experience with no issues.,4,Yes,No
+FDB90952,CUST11195,2023-01-03,I'm not happy with the premium charged.,3,Yes,Yes
+FDB90953,CUST10601,2020-07-24,I'm not happy with the premium charged.,3,No,No
+FDB90954,CUST11967,2022-06-03,Smooth experience with no issues.,5,Yes,Yes
+FDB90955,CUST12261,2021-08-20,Excellent customer service support.,5,No,Yes
+FDB90956,CUST11448,2022-05-18,The agent was helpful and explained everything.,5,No,Yes
+FDB90957,CUST11074,2022-10-03,Had to wait too long for claim approval.,2,No,No
+FDB90958,CUST11393,2022-02-13,Claim process could be faster.,3,No,No
+FDB90959,CUST11430,2022-06-05,Excellent customer service support.,4,No,Yes
+FDB90960,CUST11867,2022-08-26,Had to wait too long for claim approval.,1,No,No
+FDB90961,CUST12287,2023-01-20,Excellent customer service support.,5,Yes,No
+FDB90962,CUST10216,2022-08-16,Smooth experience with no issues.,5,No,Yes
+FDB90963,CUST10089,2022-07-15,Smooth experience with no issues.,5,Yes,Yes
+FDB90964,CUST10664,2021-01-27,Very satisfied with the claim process.,4,No,No
+FDB90965,CUST10781,2022-01-11,The mobile app experience was intuitive.,3,Yes,Yes
+FDB90966,CUST10199,2020-09-21,I'm not happy with the premium charged.,2,No,Yes
+FDB90967,CUST10747,2022-05-09,Very satisfied with the claim process.,5,No,Yes
+FDB90968,CUST11296,2020-05-16,Need more clarity on policy coverage.,1,No,Yes
+FDB90969,CUST11777,2020-10-02,Need more clarity on policy coverage.,2,No,No
+FDB90970,CUST11092,2023-02-01,Frustrated with repeated documentation requests.,3,Yes,Yes
+FDB90971,CUST11324,2020-04-10,Very satisfied with the claim process.,4,Yes,Yes
+FDB90972,CUST11137,2021-02-15,Smooth experience with no issues.,4,Yes,No
+FDB90973,CUST10707,2020-02-06,Frustrated with repeated documentation requests.,3,Yes,Yes
+FDB90974,CUST11594,2022-01-08,Had to wait too long for claim approval.,1,Yes,Yes
+FDB90975,CUST10601,2023-01-17,I'm not happy with the premium charged.,3,No,Yes
+FDB90976,CUST12457,2022-01-28,Claim process could be faster.,3,No,Yes
+FDB90977,CUST10259,2022-09-21,Excellent customer service support.,4,Yes,Yes
+FDB90978,CUST10426,2021-02-13,Very satisfied with the claim process.,5,Yes,No
+FDB90979,CUST11067,2023-01-17,Smooth experience with no issues.,5,Yes,No
+FDB90980,CUST11315,2022-02-20,Excellent customer service support.,5,No,No
+FDB90981,CUST12057,2023-09-24,Had to wait too long for claim approval.,1,No,No
+FDB90982,CUST10720,2021-12-13,The agent was helpful and explained everything.,5,Yes,Yes
+FDB90983,CUST11802,2021-05-27,Excellent customer service support.,5,No,Yes
+FDB90984,CUST11970,2021-07-12,Frustrated with repeated documentation requests.,1,Yes,Yes
+FDB90985,CUST10841,2022-01-14,Smooth experience with no issues.,4,Yes,Yes
+FDB90986,CUST12465,2022-06-17,The mobile app experience was intuitive.,4,No,Yes
+FDB90987,CUST11275,2023-03-08,Very satisfied with the claim process.,4,No,No
+FDB90988,CUST10684,2022-04-13,Need more clarity on policy coverage.,1,Yes,No
+FDB90989,CUST11901,2021-05-06,Frustrated with repeated documentation requests.,2,Yes,Yes
+FDB90990,CUST10262,2021-10-25,Had to wait too long for claim approval.,1,No,Yes
+FDB90991,CUST11707,2020-04-05,I'm not happy with the premium charged.,2,No,Yes
+FDB90992,CUST11879,2022-10-07,Very satisfied with the claim process.,4,No,Yes
+FDB90993,CUST11749,2023-07-14,Had to wait too long for claim approval.,1,No,Yes
+FDB90994,CUST12003,2022-08-20,Frustrated with repeated documentation requests.,1,Yes,No
+FDB90995,CUST12467,2021-05-10,Excellent customer service support.,4,Yes,No
+FDB90996,CUST10113,2022-06-10,Claim process could be faster.,3,Yes,No
+FDB90997,CUST10702,2021-07-04,Claim process could be faster.,2,No,No
+FDB90998,CUST12223,2021-11-20,Very satisfied with the claim process.,4,No,Yes
+FDB90999,CUST11520,2023-03-20,The agent was helpful and explained everything.,5,Yes,No
